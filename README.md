@@ -27,7 +27,7 @@ Once pressed, it will check for any edits or new contacts and display them.
 
 ![alt text](https://github.com/Alexander-Aghili/AddressBookAndroidClient/blob/master/Images/NewContactAdded.png?raw=true)
 
-6. Click the Edit Contact button for the Contact you want to edit to be presented with this page. If you attempt to enter an empty value, an outline of red will surround the textfield:
+6. Click the Edit Contact button for the Contact you want to edit to be presented with this page. If you attempt to enter an empty value, Invalid Input will be displayed in the empty field:
 
 ![alt text](https://github.com/Alexander-Aghili/AddressBookAndroidClient/blob/master/Images/EditContactNoInfo.png?raw=true)
 
