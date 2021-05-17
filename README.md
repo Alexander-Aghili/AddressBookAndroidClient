@@ -6,7 +6,7 @@ AVD Android Emulator: Pixel 3a API 29 Emulator
 
 If you continue to struggle, here are images on how it operates:
 
-1. First time startup. There is an area in the middle for the contacts when you add them. The cloud icon in the bottom left is a refresh button. 
+1. First time startup. There is an area in the middle for the contacts when you add them. The refresh button is in the bottom left.
 Once pressed, it will check for any edits or new contacts and display them.
 
 ![alt text](https://github.com/Alexander-Aghili/AddressBookAndroidClient/blob/master/Images/startup.png?raw=true)
