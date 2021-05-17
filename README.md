@@ -15,7 +15,7 @@ Once pressed, it will check for any edits or new contacts and display them.
 
 ![alt text](https://github.com/Alexander-Aghili/AddressBookAndroidClient/blob/master/Images/AddContactStartup.png?raw=true)
 
-3. If you attempt to enter an empty value, an outline of red will surround the textfield:
+3. If you attempt to enter an empty value, Invalid Input will be displayed in the empty field:
 
 ![alt text](https://github.com/Alexander-Aghili/AddressBookAndroidClient/blob/master/Images/AddContactNoInfo.png?raw=true)
 
